@@ -1,0 +1,17 @@
+{
+  "name": "Sravs Sandbox — AI Virtual Sandbox",
+  "short_name": "Sravs Sandbox",
+  "description": "Chat with Sravs, generate code, and run JavaScript, TypeScript, Python and live HTML instantly in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
